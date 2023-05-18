@@ -1,0 +1,18 @@
+meme_sozlugu = {
+            "CRINGE": "Garip ya da utandırıcı bir şey",
+            "LOL": "Komik bir şeye verilen cevap",
+            "ROFL": "Bir şakaya karşılık cevap",
+            "SHEESH": "Onaylamamak",
+            "CREEPY": "Korkunç",
+            "AGGRO": "Agresifleşmek/Sinirlenmek",
+            "NP": "Bir olaydan sonra problem yoksa verilen cevap"
+            }
+            
+kelime = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın!): ")
+
+if kelime in meme_sozlugu.keys():
+    # Kelime eşleşiyorsa ne yapmalıyız?
+    print(meme_sozlugu[kelime])
+else:
+    # Kelime eşleşmiyorsa ne yapmalıyız?
+    print("Bilmiyoruz")
