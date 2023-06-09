@@ -218,4 +218,4 @@ bot.add_command(kiss)
 
 
 
-bot.run("MTExMjA2OTUwMzE2MTk5OTQwMA.GeJ5DY.UTGbXr_u4Kd3W8KvFCr1oBr2kbpFsHeMnBs994") 
+bot.run("token girin") 
