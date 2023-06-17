@@ -180,4 +180,4 @@ async def _user(ctx):
     await ctx.send('Yes, the user is cool.')
 
 
-bot.run('MTExMjA2OTUwMzE2MTk5OTQwMA.GKCM2x.2JNkAcatVvvsK-f-ZfC-fjsyscfeTEIBC_u-1o')
+bot.run('token girin')
