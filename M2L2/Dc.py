@@ -56,4 +56,4 @@ async def on_message(message):
         await message.channel.send("")
 
     
-client.run("MTExMjA2OTUwMzE2MTk5OTQwMA.GKCM2x.2JNkAcatVvvsK-f-ZfC-fjsyscfeTEIBC_u-1o")
+client.run("token girin")
