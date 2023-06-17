@@ -1,1 +1,15 @@
 bott.py yi çalıştırın
+kodlar "!" ile çalışır
+komutlar
+!add a b
+!oneri
+!roll AdB
+!choose a b c ...
+!repeat
+!duck
+!say
+!f
+!hotcalc
+!hug
+!kiss
+!cool a
