@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif; /* Yazı tipi ailesi */
+  font-size: 11px; /* <p></p> etiketindeki ana yazının boyutu */
+  background-color: #f0f0f0; /* Web sayfasının arka plan rengi */
+  color: #664c4c; /* Metin rengi */
+}
+
+h1 {
+  color: #00bbff; /* Başlık rengi */
+  font-size: 24px; /* Başlık yazı tipi boyutu */
+  font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+h2 {
+  color: #b26bd9;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  border: 4px solid rgb(253, 76, 1);
+  border-radius: 10%;
+}
+
+/**** İPUCU ****/ 
+
+/* Yazı tipi: 'Inter'
+Renkler:
+  1. Mavi = #5988FF
+  2. Pembe = #FD98FB
+  3. Yeşil  = #D6FF6B
+  4. Beyaz = #FFFFFF 
+
+1. background-color: —  arka plan rengini değiştirmek için kullanılır.
+2. color: — metnin rengini belirlemek için kullanılır.
+3. text: - decoration-color: —  Metin rengini color etiketiyle belirlediğinizde, süslemenin rengi de değişir. Bu etiketi kullanarak süslemenin rengini değiştirebilirsiniz. Örneğin, farklı renkte alt çizgiler istediğinizde bu kullanışlı olabilir.
+4. border: — bloğun kenarlarını belirlemek için kullanılır.
+5. font-family: — metin için yazı tipini belirlemek için kullanılır.
+6. font-size:  — yazı tipinin boyutunu belirlemek için kullanılır. */
+
+/**** İPUCU ****/ 

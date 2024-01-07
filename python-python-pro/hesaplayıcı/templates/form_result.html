@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form sonuçları</title>
+</head>
+
+<body>
+  {% block content %}
+  <h1>Formu doldurduğunuz için teşekkür ederiz</h1>
+  <p>İsminiz: {{ name }}</p>
+  <p>Eposta adresi: {{ email }}</p>
+  <p>Adres: {{ address }} </p>
+  <p>Tarih: {{ date }}</p>
+  {% endblock %}
+</body>
+
+</html>
