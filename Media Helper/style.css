@@ -1,0 +1,122 @@
+body {
+    background-image: url('bgh.png');
+    background-size:cover;
+
+
+}
+
+.baslik {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    font-size: 75px;
+    opacity: 0.5;
+}
+
+
+.baslik:hover {
+    opacity: 1;
+}
+
+
+.welcomemessage {
+    animation: opacity-change 5s infinite;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    font-size: 30px;
+    color: white;
+}
+
+@keyframes opacity-change {
+    0%{opacity: 0.5};
+    25%{opacity: 0.7};
+    50%{opacity: 1};
+    75%{opacity: 0.7};
+    100%{opacity: 0.5};
+}
+
+
+.bilgisayarlar {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    font-size: 50px;
+    color:white;
+}
+
+.victus {
+    opacity: 0.7;
+}
+
+.victus:hover {
+    opacity: 1;
+}
+
+.monster {
+    opacity: 0.7;
+}
+
+.monster:hover {
+    opacity: 1;
+}
+
+.alienware {
+    opacity: 0.7;
+}
+
+.alienware:hover {
+    opacity: 1;
+
+}
+
+.vica {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    font-size: 20px;
+    color: beige;
+}
+
+.by {
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: intherit;
+}
+
+.telefonlar {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    font-size: 50px;
+    color:white;
+}
+
+
+.iphone {
+    opacity: 0.7;
+}
+
+.iphone:hover {
+    opacity: 1;
+}
+
+.samsung {
+    opacity: 0.7;
+    padding-bottom: 10px;
+    padding-left: 125px;
+}
+
+
+.samsung:hover {
+    opacity: 1;
+}
+
+.ipa{   
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    font-size: 20px;
+    color: beige;
+}
+
+
+.iphonelogo {
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
