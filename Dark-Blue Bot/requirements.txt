@@ -1,0 +1,8 @@
+discord
+pyshorteners
+praw
+flask
+google
+google-cloud-speech
+gtts
+"discord.py"
