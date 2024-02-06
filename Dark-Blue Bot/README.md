@@ -12,6 +12,8 @@ Example video:
 
 
 ![To My Video](https://www.youtube.com/watch?v=UbgR1jzFkWk)
+![Video Title]([video_url](https://www.youtube.com/watch?v=UbgR1jzFkWk))
+
 
 [![]([https://img.youtube.com/vi/foHMV908I1E/0.jpg](https://i9.ytimg.com/vi/UbgR1jzFkWk/mqdefault.jpg?sqp=CJSdiq4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gWyhlMA8=&rs=AOn4CLCuHILzlD4HrUQDkDSXSmTpia55FQ)https://i9.ytimg.com/vi/UbgR1jzFkWk/mqdefault.jpg?sqp=CJSdiq4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gWyhlMA8=&rs=AOn4CLCuHILzlD4HrUQDkDSXSmTpia55FQ)](https://www.youtube.com/watch?v=UbgR1jzFkWk)
 
