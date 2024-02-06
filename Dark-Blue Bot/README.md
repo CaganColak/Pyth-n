@@ -11,5 +11,5 @@ Things to implement in the future:
 Example video:
 
 
-[![](https://img.youtube.com/vi/foHMV908I1E/0.jpg)]([https://www.youtube.com/watch?v=foHMV908I1E](https://www.youtube.com/watch?v=UbgR1jzFkWk)https://www.youtube.com/watch?v=UbgR1jzFkWk)
+[![](https://img.youtube.com/vi/foHMV908I1E/0.jpg)](https://www.youtube.com/watch?v=UbgR1jzFkWk)
 
