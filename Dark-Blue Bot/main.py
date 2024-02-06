@@ -58,7 +58,7 @@ async def Help(ctx, arg=None):
     general_commands = "`avatar`, `ping`, `invite`"
     fun_commands = "`say`, `f`, `thiscommanddoesnothing`, `reverse`, `encodemorse`, `hotcalc`, `encode_md5`, `encode_sha256`, `hug`, `kiss`, `tts`"
     economy_commands = "`balance`, `beg`, `deposit`, `withdraw`, `rob`, `slot`, `send`, `shop`, `bag`, `buy`, `sell`, `coinflip`"
-    moderation_commands = "`mute`, `unmute`, `ban`, `unban`, `kick`"
+    moderation_commands = "`mute`, `unmute`, `ban`, `unban`, `kick`, `clear`"
 
     if arg is None:
         embed.add_field(name="general commands", value=general_commands, inline=False)
